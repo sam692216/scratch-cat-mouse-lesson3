@@ -13,7 +13,7 @@
 
 ## 網頁網址
 
-- 第三堂（發布後）：https://sam692216.github.io/scratch-cat-mouse-lesson3/
+- 第三堂：https://sam692216.github.io/scratch-cat-mouse-lesson3/
 - 第四堂（預留命名）：https://sam692216.github.io/scratch-cat-mouse-lesson4/
 - 第五堂（預留命名）：https://sam692216.github.io/scratch-cat-mouse-lesson5/
 
@@ -28,3 +28,4 @@ GitHub Actions 會將 `互動式學習單/` 發布為第三堂網站根目錄，
 ## 延伸第四、第五堂
 
 建議每堂課沿用 `scratch-cat-mouse-lessonN` 命名方式，各自建立 GitHub 儲存庫；新增 Pages workflow，將該堂課的學生學習單資料夾發布到網站根目錄，並更新此課程入口或 README 中的課程連結。
+
